@@ -147,6 +147,15 @@ lcc -o new.gb new.c
 ```
 
 # Tutorials
+
+http://www.fasebonus.net/foro/index.php?topic=36662.0
+
+https://www.elotrolado.net/hilo_desarrollo-software-proyectos-de-darkryoga_1901847
+
+http://wiki.ladecadence.net/doku.php?id=tutorial_de_ensamblador
+
+http://www.retroisle.com/others/nintendogameboy/Technical/Firmware/dev.php
+
 http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial
 
 http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial
