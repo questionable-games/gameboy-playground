@@ -152,6 +152,8 @@ http://www.fasebonus.net/foro/index.php?topic=36662.0
 
 https://www.elotrolado.net/hilo_desarrollo-software-proyectos-de-darkryoga_1901847
 
+https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/
+
 http://wiki.ladecadence.net/doku.php?id=tutorial_de_ensamblador
 
 http://www.retroisle.com/others/nintendogameboy/Technical/Firmware/dev.php
