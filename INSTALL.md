@@ -55,20 +55,6 @@ lcc -o new.gb new.c
 Lastly, get mGBA to emulate your "game" - example
 
 
-# Tutorials
-http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial
-
-http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial
-
-http://www.retroisle.com/others/nintendogameboy/Technical/Firmware/dev.php
-
-http://gbdk.sourceforge.net/guidelines.html
-
-http://swelectronics.co.uk/Gameboy/images/Opcodes.htm
-
-http://fms.komkon.org/GameBoy/Tech/Hardware.html
-
-
 Installation on Ubuntu 18.04.2 LTS
 ----------------------------------
 
@@ -159,3 +145,27 @@ Run the compiler
 ```
 lcc -o new.gb new.c
 ```
+
+# Tutorials
+
+http://www.fasebonus.net/foro/index.php?topic=36662.0
+
+https://www.elotrolado.net/hilo_desarrollo-software-proyectos-de-darkryoga_1901847
+
+https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/
+
+http://wiki.ladecadence.net/doku.php?id=tutorial_de_ensamblador
+
+http://www.retroisle.com/others/nintendogameboy/Technical/Firmware/dev.php
+
+http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial
+
+http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial
+
+http://www.retroisle.com/others/nintendogameboy/Technical/Firmware/dev.php
+
+http://gbdk.sourceforge.net/guidelines.html
+
+http://swelectronics.co.uk/Gameboy/images/Opcodes.htm
+
+http://fms.komkon.org/GameBoy/Tech/Hardware.html
